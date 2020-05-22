@@ -1,6 +1,3 @@
-def add():
-    num =9
-    num2 = num + 1
-    return num2
-
-add()
+def add(num1):
+    num = num1 + 1
+    return num
