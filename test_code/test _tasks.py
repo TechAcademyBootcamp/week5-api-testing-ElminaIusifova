@@ -1,5 +1,6 @@
-from 01_test_add_simple.taskone import add
-from 03_pytest_simple.taskthree import divide
+from test_add_simple.taskone import add
+from pytest_simple.taskthree import divide
+
 
 def test_divide1():
     arg1=3
